@@ -1,1 +1,2 @@
-file2 test. This is cool "added this line"
+file2 test. This is cool "added this line". 
+From github added this line.
